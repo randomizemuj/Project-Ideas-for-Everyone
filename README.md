@@ -7,6 +7,7 @@ This project list contains ideas for:
  - Game Development
  - Machine Learning, and
  - Web Development
+ - IoT&Robotics
 
 ## Machine Learning
 
